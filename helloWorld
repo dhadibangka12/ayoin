@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+  cout<<"Bobi Mokodompit"<<endl;
   cout<<"5. Ahmad Fauzan"<<endl;
   cout<<"14.Andika Alifian/n";
   cout<<"14. Farhan Ma'arif Lubis";
